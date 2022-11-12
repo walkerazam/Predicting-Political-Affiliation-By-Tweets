@@ -1,9 +1,8 @@
-# CSE-163-Final-Project
+# Predicting Political Affiliation using tweets
 
-Predicting Political Affiliation using tweets
 Group Members:
-Evan Yip
 Walker Azam
+Evan Yip
 Cooper Chia
 
 Files: ExtractedTweets.csv, naive_bayes_classifier.py,
